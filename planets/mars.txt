@@ -1,3 +1,8 @@
 The Institute was founded to support the UK’s research software community - a community that includes the majority of UK’s researchers.
 
 
+Getting software on the research agenda: we have built a popular platform to provide researchers and developers access to the contacts, information and training necessary to develop reliable and reproducible research software.
+
+Supporting communities that want change: we have formed partnerships across the UK and into Canada, the US, and across Europe, and have become the de facto point of contact for research software good practice.
+
+
